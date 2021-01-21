@@ -1,0 +1,7 @@
+D:\HAMK\ohjelmistokehitys\ninan_ohjelmisto\ninan_projekti\ninan_projekti\obj\Debug\ninan_projekti.csprojAssemblyReference.cache
+D:\HAMK\ohjelmistokehitys\ninan_ohjelmisto\ninan_projekti\ninan_projekti\obj\Debug\ninan_projekti.csproj.CoreCompileInputs.cache
+D:\HAMK\ohjelmistokehitys\ninan_ohjelmisto\ninan_projekti\ninan_projekti\bin\Debug\ninan_projekti.exe.config
+D:\HAMK\ohjelmistokehitys\ninan_ohjelmisto\ninan_projekti\ninan_projekti\bin\Debug\ninan_projekti.exe
+D:\HAMK\ohjelmistokehitys\ninan_ohjelmisto\ninan_projekti\ninan_projekti\bin\Debug\ninan_projekti.pdb
+D:\HAMK\ohjelmistokehitys\ninan_ohjelmisto\ninan_projekti\ninan_projekti\obj\Debug\ninan_projekti.exe
+D:\HAMK\ohjelmistokehitys\ninan_ohjelmisto\ninan_projekti\ninan_projekti\obj\Debug\ninan_projekti.pdb
