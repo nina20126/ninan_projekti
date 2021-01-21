@@ -17,9 +17,11 @@ namespace ninan_projekti
             return luku1 + luku2;
         }
 
-        public int Erotus(int luku1, int luku2)
+        public int Tulo(int v1, int v2)
         {
-            return luku1 - luku2;
+            return v1 * v2;
         }
+
+
     }
 }
